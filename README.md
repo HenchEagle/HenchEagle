@@ -1,5 +1,5 @@
 ## Welcome 👋
-I'm Jakub, a Cyber Security student
+I'm Jakub, a Cyber security student
 
 **Working On**
 Cryptography, JavaScript, Event log analysis, Access control, 
