@@ -2,7 +2,7 @@
 I'm Jakub, a Cyber security student
 
 **Working On**
-Cryptography, JavaScript, Event log analysis, Access control, 
+JavaScript, HTML, Cryptography, Event log analysis and Access control
 
 ---
 **Projects**
