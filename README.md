@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome 👋
+I'm Jakub, a Cyber Security student
 
-<!--
-**HenchEagle/HenchEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Working On**
+Cryptography, JavaScript, Event log analysis, Access control, 
 
-Here are some ideas to get you started:
+---
+**Projects**
+- My main project is `Infrastructure Mapping API` which is planned to become a full-stack API for historical, infrastructure mapping.
+- I have played around with a proxmox environment where I deployed an active directory (DNS, AD OU & DHCP). as well as PfSense for forwarding through a VPN accross a virtual NAT bridge.
+- As well as, just general untargetted research into a very wide range of rabbit holes, tryhackme, troubleshooting, overthewire etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**Hobbies**
+- Exercise: cycling, walking, basketball, football, gym. (5 days a week)
+- Socialising, includes approaching random individuals in suits and asking what they do. (please give me employment)
+- Cooking and Consuming Media
+
+*Discord: shuffle._*
