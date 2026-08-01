@@ -1,8 +1,8 @@
 ## Welcome 👋
 I'm Jakub, a Cyber security student
 
-**Working On**
-JavaScript, HTML, Cryptography, Event log analysis and Access control
+**Technical Interests**
+Infrastructure engineering and architecture, with hints of security and software development
 
 ---
 **Projects & Certifications**
