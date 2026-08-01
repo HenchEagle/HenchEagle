@@ -2,7 +2,7 @@
 I'm Jakub, a Cyber security student
 
 **Technical Interests**
-Infrastructure engineering and architecture, with hints of security and software development
+- Infrastructure engineering and architecture, with hints of security and software development
 
 ---
 **Projects & Certifications**
