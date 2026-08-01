@@ -5,11 +5,11 @@ I'm Jakub, a Cyber security student
 JavaScript, HTML, Cryptography, Event log analysis and Access control
 
 ---
-**Projects**
-- My main project is `Infrastructure Mapping API` which is planned to become a full-stack API for historical, infrastructure mapping.
-- I have played around with a proxmox environment where I deployed an active directory (DNS, AD OU & DHCP). as well as PfSense for forwarding through a VPN accross a virtual NAT bridge.
+**Projects & Certifications**
+- Currently working on my cloud and kubernetes skills to deploy a hybrid cloud environment, with the services that I have made, AD, DNS, DHCP, Opnsense and more.
 - As well as, just general untargetted research into a very wide range of rabbit holes, tryhackme, troubleshooting, overthewire etc.
-
+### 🎖️ Certifications
+[![Cisco Junior Analyst](https://shields.io)]https://www.credly.com/earner/earned/badge/dbd4fdf0-ac89-441b-a331-91ee0811ee63
 ---
 **Hobbies**
 - Exercise: cycling, walking, basketball, football, gym. (5 days a week)
